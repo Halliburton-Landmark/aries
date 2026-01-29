@@ -94,7 +94,7 @@
         <ariesJndiUrlVersion>1.0.0</ariesJndiUrlVersion>
 
         <!-- Aries Jpa Versions -->
-        <ariesJpaApiVersion>1.0.0</ariesJpaApiVersion>
+        <ariesJpaApiVersion>2.7.3</ariesJpaApiVersion>
         <ariesJpaBlueprintAriesVersion>1.0.0</ariesJpaBlueprintAriesVersion>
         <ariesJpaContainerVersion>1.0.0</ariesJpaContainerVersion>
         <ariesJpaContainerContextVersion>1.0.0</ariesJpaContainerContextVersion>
